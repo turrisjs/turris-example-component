@@ -1,5 +1,5 @@
 {
-  "name": "component-turrisExample",
+  "name": "component-turris-example",
   "version": "0.1.0",
   "description": "This is an example component scaffolded using Turris.js generator",
   "main": "es5/component.js",
